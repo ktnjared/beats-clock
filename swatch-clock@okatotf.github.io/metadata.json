@@ -4,7 +4,11 @@
   "description": "An extension which displays the Swatch Internet Time on the panel.",
   "version": 1,
   "shell-version": [
-    "44"
+    "44",
+    "45",
+    "46",
+    "47",
+    "48"
   ],
   "url": "https://github.com/okatotf/swatch-clock"
 }
