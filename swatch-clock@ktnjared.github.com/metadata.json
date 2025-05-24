@@ -1,0 +1,16 @@
+{
+  "author": "ktnjared",
+  "description": "Displays .beats (Swatch Internet Time) on the Panel.\n\nThis is a fork of the original Swatch Clock extension by okatotf (https://github.com/Rolbug/swatch-clock).",
+  "license": "MIT",
+  "name": ".beats Clock",
+  "shell-version": [
+    "44",
+    "45",
+    "46",
+    "47",
+    "48"
+  ],
+  "url": "https://github.com/ktnjared/beats-clock",
+  "uuid": "beats-clock@ktnjared.github.com",
+  "version": "48.beta"
+}
