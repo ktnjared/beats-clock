@@ -1,0 +1,19 @@
+{
+  "name": "Beats Clock",
+  "uuid": "beats-clock@ktnjared.github.io",
+  "description": "An extension which displays .beats (Swatch Internet Time) on the panel.",
+  "version": 2,
+  "shell-version": [
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+  ],
+  "url": "https://github.com/ktnjared/beats-clock",
+  "session-modes": [
+    "unlock-dialog",
+    "user"
+  ]
+}
